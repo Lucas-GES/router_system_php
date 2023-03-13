@@ -1,0 +1,17 @@
+{
+    "name": "lucas/sistema_de_rotas_poo",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas-GES",
+            "email": "lucas.espiritosanto@edu.unifil.br"
+        }
+    ],
+    "require": {
+        "league/plates": "^3.5"
+    }
+}
